@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/artisant-cards/static/css/main.4935423b.css",
-    "main.js": "/artisant-cards/static/js/main.007589a4.js",
+    "main.js": "/artisant-cards/static/js/main.e253fcde.js",
     "static/media/product.png": "/artisant-cards/static/media/product.544ed7065a4e5677a07f.png",
     "index.html": "/artisant-cards/index.html",
     "main.4935423b.css.map": "/artisant-cards/static/css/main.4935423b.css.map",
-    "main.007589a4.js.map": "/artisant-cards/static/js/main.007589a4.js.map"
+    "main.e253fcde.js.map": "/artisant-cards/static/js/main.e253fcde.js.map"
   },
   "entrypoints": [
     "static/css/main.4935423b.css",
-    "static/js/main.007589a4.js"
+    "static/js/main.e253fcde.js"
   ]
 }
