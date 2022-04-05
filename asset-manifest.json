@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/artisant-cards/static/css/main.4935423b.css",
+    "main.js": "/artisant-cards/static/js/main.4147f017.js",
+    "static/media/product.png": "/artisant-cards/static/media/product.544ed7065a4e5677a07f.png",
+    "index.html": "/artisant-cards/index.html",
+    "main.4935423b.css.map": "/artisant-cards/static/css/main.4935423b.css.map",
+    "main.4147f017.js.map": "/artisant-cards/static/js/main.4147f017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4935423b.css",
+    "static/js/main.4147f017.js"
+  ]
+}
